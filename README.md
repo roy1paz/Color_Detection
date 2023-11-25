@@ -2,6 +2,7 @@
 
 ## Introduction
 The provided Python script is designed to detect and analyze specific HSV color ranges within images. It visualizes and highlights the color coverage, outputting the percentage coverage. The algorithm leverages the OpenCV and Matplotlib libraries for image processing and visualization.
+
 ![Local Image](./maksssksksss5.png)
 
 ## Algorithm Overview
